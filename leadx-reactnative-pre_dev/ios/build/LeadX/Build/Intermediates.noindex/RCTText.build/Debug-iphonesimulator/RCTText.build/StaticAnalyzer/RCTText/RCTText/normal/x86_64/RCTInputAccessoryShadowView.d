@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.m \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/vaibhavpatil/Documents/ios/VJ_Dev/ReactNative/LeadX/leadx-reactnative/ios/build/LeadX/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

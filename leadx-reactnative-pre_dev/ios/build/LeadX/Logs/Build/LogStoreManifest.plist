@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D6D8D617-9E6E-4B37-B98A-418FBFBDECCB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6D8D617-9E6E-4B37-B98A-418FBFBDECCB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeadX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeadX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project LeadX with scheme LeadX and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580916772.89993</real>
+			<key>timeStoppedRecording</key>
+			<real>580916812.77942097</real>
+			<key>title</key>
+			<string>Building project LeadX with scheme LeadX and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D6D8D617-9E6E-4B37-B98A-418FBFBDECCB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

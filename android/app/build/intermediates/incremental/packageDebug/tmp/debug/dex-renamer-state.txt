@@ -1,4 +1,0 @@
-#Mon May 13 17:09:44 IST 2019
-base.0=/home/suhask/ReactNative/leadx-reactnative/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

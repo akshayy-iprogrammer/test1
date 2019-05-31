@@ -1,0 +1,13 @@
+export const LOAD_DATA = 'LOAD_DATA';
+export const ONGOING_TAB = 'ONGOING_TAB';
+export const CONTACT_TAB = 'CONTACT_TAB';
+export const GET_NEWS = 'LOAD_NEWS';
+export const GET_FEEDS = 'LOAD_FEEDS';
+export const GET_FEEDS_LIST = 'GET_FEEDS_LIST';
+export const GET_PIPELINE_INFO = 'GET_PIPELINE_INFO';
+export const GET_PIPELINE_LEADS = 'GET_PIPELINE_LEADS';
+export const GET_SALES_LEAD_LIST = ' GET_SALES_LEAD_LIST';
+export const GET_REVENUE_TOTAL = 'GET_REVENUE_TOTAL';
+export const SALES_ONGOING_TAB = 'SALES_ONGOING_TAB';
+export const GET_CONTACTS = 'GET_CONTACTS';
+export const REFRESH_ALL = 'REFRESH_ALL';
